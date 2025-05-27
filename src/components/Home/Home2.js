@@ -16,46 +16,41 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              WELCOME TO <span className="purple">MY WORLD</span> OF CODE
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              My journey into programming began with curiosity and blossomed into passion.
+              Every line of code tells a story... 💻
               <br />
-              <br />I am fluent in classics Technologies like
+              <br />My expertise spans classic technologies including
               <i>
-                <b className="purple"> C, Java and SpringBoot. </b>
+                <b className="purple"> C, Java, and Spring Boot</b>
               </i>
-          
-              <br />And also works in future Technologies like
+              <br />Embracing innovation, I craft solutions with
               <i>
-                <b className="purple"> Python, Javascript and GenAI. </b>
+                <b className="purple"> Python, JavaScript, and Generative AI</b>
               </i>
               <br />
               <br />
-
-              My areas of Interest's are in &nbsp;
+              I'm passionate about &nbsp;
               <i>
-                <b className="purple">New Technologies, Full Stack, Production Support  </b> and
-                also in field related to{" "}
+                <b className="purple">Emerging Technologies, Full Stack Development, Production Engineering</b> and
+                pioneering solutions in{" "}
                 <b className="purple">
-                  Generative AI.
+                  Artificial Intelligence
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also waste my time in scrolling instagram reels,  
-               <b className="purple">Editing videos,</b> and chilling with my
+              Beyond coding, I find joy in creating content,{" "}
+              <b className="purple">producing videos</b>, and sharing moments with my
               <i>
                 <b className="purple">
                   {" "}
-                  Buddies.
+                  amazing network
                 </b>
               </i>
-              &nbsp; and I really 
-              <i>
-                <b className="purple"> Enjoy</b>
-              </i> this.
+              &nbsp; - bringing creativity to everything I do.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
